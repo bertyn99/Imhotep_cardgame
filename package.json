@@ -1,0 +1,23 @@
+{
+  "name": "imothep",
+  "version": "1.0.0",
+  "description": "its a carg game do with phaser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertyn99/Imhotep_cardgame.git"
+  },
+  "author": "bertyn boulikou && anthoine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bertyn99/Imhotep_cardgame/issues"
+  },
+  "homepage": "https://github.com/bertyn99/Imhotep_cardgame#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "phaser": "^3.21.0"
+  }
+}
